@@ -1,31 +1,109 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo=”https://en.m.wikipedia.org/wiki/File:T_Sports_logo.png” group-title=”Bangla”, T sport
-http://10.200.200.98:8088/1101/index.m3u8
+http://10.200.200.98:8088/1102/index.m3u8
 
-#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/200px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”Bangla”, NTV
-http://10.200.200.98:8088/1104/index.m3u8
-
-#EXTINF:-1 tvg-logo=”https://en.m.wikipedia.org/wiki/File:T_Sports_logo.png” group-title=”Bangla”, T sport
+#EXTINF:-1 tvg-logo=”https://en.m.wikipedia.org/wiki/File:T_Sports_logo.png” group-title=”Bangla”,G Tv
 http://10.200.200.98:8088/1103/index.m3u8
 
-#EXTINF:-1 tvg-logo=”https://en.m.wikipedia.org/wiki/File:T_Sports_logo.png” group-title=”Bangla”, T sport
+#EXTINF:-1 tvg-logo=”https://en.m.wikipedia.org/wiki/File:T_Sports_logo.png” group-title=”Bangla”, Star Sports 1
 http://10.200.200.98:8088/1104/index.m3u8
 
-#EXTINF:-1 tvg-logo=”https://en.m.wikipedia.org/wiki/File:T_Sports_logo.png” group-title=”Bangla”, T sport
+#EXTINF:-1 tvg-logo=”https://en.m.wikipedia.org/wiki/File:T_Sports_logo.png” group-title=”Bangla”, Star sport 2
 http://10.200.200.98:8088/1105/index.m3u8
 
-#EXTINF:-1 tvg-logo=”https://en.m.wikipedia.org/wiki/File:T_Sports_logo.png” group-title=”Bangla”, T sport
+#EXTINF:-1 tvg-logo=”https://en.m.wikipedia.org/wiki/File:T_Sports_logo.png” group-title=”Bangla”, Ten sports 1
 http://10.200.200.98:8088/1106/index.m3u8
 
-#EXTINF:-1 tvg-logo=”https://en.m.wikipedia.org/wiki/File:T_Sports_logo.png” group-title=”Bangla”, T sport
-http://10.200.200.98:8088/1106/index.m3u8
-
-#EXTINF:-1 tvg-logo=”https://en.m.wikipedia.org/wiki/File:T_Sports_logo.png” group-title=”Bangla”, T sport
+#EXTINF:-1 tvg-logo=”https://en.m.wikipedia.org/wiki/File:T_Sports_logo.png” group-title=”Bangla”, Ten sports 2
 http://10.200.200.98:8088/1107/index.m3u8
 
-#EXTINF:-1 tvg-logo=”https://en.m.wikipedia.org/wiki/File:T_Sports_logo.png” group-title=”Bangla”, T sport
+#EXTINF:-1 tvg-logo=”https://en.m.wikipedia.org/wiki/File:T_Sports_logo.png” group-title=”Bangla”, Ten sports 3
+http://10.200.200.98:8088/1108/index.m3u8
+
+#EXTINF:-1 tvg-logo=”https://en.m.wikipedia.org/wiki/File:T_Sports_logo.png” group-title=”Bangla”, Star sport Hd 1
 http://10.200.200.98:8088/1109/index.m3u8
 
-#EXTINF:-1 tvg-logo=”https://en.m.wikipedia.org/wiki/File:T_Sports_logo.png” group-title=”Bangla”, T sport
-http://10.200.200.98:8088/11011/index.m3u8
+#EXTINF:-1 tvg-logo=”https://en.m.wikipedia.org/wiki/File:T_Sports_logo.png” group-title=”Bangla”, A sports
+http://10.200.200.98:8088/11012/index.m3u8
+
+#EXTINF:-1 tvg-logo=”https://en.m.wikipedia.org/wiki/File:T_Sports_logo.png” group-title=”Bangla”, Somoy TV
+http://10.200.200.98:8088/1202/index.m3u8
+
+#EXTINF:-1 tvg-logo=”https://en.m.wikipedia.org/wiki/File:T_Sports_logo.png” group-title=”Bangla”, DBC News 
+http://10.200.200.98:8088/1204/index.m3u8
+
+#EXTINF:-1 tvg-logo=”https://en.m.wikipedia.org/wiki/File:T_Sports_logo.png” group-title=”Bangla”, INDEPENDENT TV
+http://10.200.200.98:8088/1205/index.m3u8
+
+#EXTINF:-1 tvg-logo=”https://en.m.wikipedia.org/wiki/File:T_Sports_logo.png” group-title=”Bangla”, ATN News 
+http://10.200.200.98:8088/1209/index.m3u8
+
+#EXTINF:-1 tvg-logo=”https://en.m.wikipedia.org/wiki/File:T_Sports_logo.png” group-title=”Bangla”, 71 TV
+http://10.200.200.98:8088/1211/index.m3u8
+
+#EXTINF:-1 tvg-logo=”https://en.m.wikipedia.org/wiki/File:T_Sports_logo.png” group-title=”Bangla”, R Tv
+http://10.200.200.98:8088/1217/index.m3u8
+
+#EXTINF:-1 tvg-logo=”https://en.m.wikipedia.org/wiki/File:T_Sports_logo.png” group-title=”Bangla”, ZEE বাংলা HD
+http://10.200.200.98:8088/1301/index.m3u8
+
+#EXTINF:-1 tvg-logo=”https://en.m.wikipedia.org/wiki/File:T_Sports_logo.png” group-title=”Bangla”, STAR জলসা HD
+http://10.200.200.98:8088/1302/index.m3u8
+
+#EXTINF:-1 tvg-logo=”https://en.m.wikipedia.org/wiki/File:T_Sports_logo.png” group-title=”Bangla”, COLORS বাংলা 
+http://10.200.200.98:8088/1303/index.m3u8
+
+#EXTINF:-1 tvg-logo=”https://en.m.wikipedia.org/wiki/File:T_Sports_logo.png” group-title=”Bangla”, জলসা MOVIE'S HD
+http://10.200.200.98:8088/1304/index.m3u8
+
+#EXTINF:-1 tvg-logo=”https://en.m.wikipedia.org/wiki/File:T_Sports_logo.png” group-title=”Bangla”, ZEE সিনেমা HD
+http://10.200.200.98:8088/1305/index.m3u8
+
+#EXTINF:-1 tvg-logo=”https://en.m.wikipedia.org/wiki/File:T_Sports_logo.png” group-title=”Bangla”, STAR PLUS HD
+http://10.200.200.98:8088/1401/index.m3u8
+
+#EXTINF:-1 tvg-logo=”https://en.m.wikipedia.org/wiki/File:T_Sports_logo.png” group-title=”Bangla”, STAR GOLD HD
+http://10.200.200.98:8088/1402/index.m3u8
+
+#EXTINF:-1 tvg-logo=”https://en.m.wikipedia.org/wiki/File:T_Sports_logo.png” group-title=”Bangla”, COLORS HINDI
+http://10.200.200.98:8088/1403/index.m3u8
+
+#EXTINF:-1 tvg-logo=”https://en.m.wikipedia.org/wiki/File:T_Sports_logo.png” group-title=”Bangla”, SONY PICTURE HD
+http://10.200.200.98:8088/1404/index.m3u8
+
+#EXTINF:-1 tvg-logo=”https://en.m.wikipedia.org/wiki/File:T_Sports_logo.png” group-title=”Bangla”, SONY MAX HD
+http://10.200.200.98:8088/1405/index.m3u8
+
+#EXTINF:-1 tvg-logo=”https://en.m.wikipedia.org/wiki/File:T_Sports_logo.png” group-title=”Bangla”, & PICTURE HD
+http://10.200.200.98:8088/1407/index.m3u8
+
+#EXTINF:-1 tvg-logo=”https://en.m.wikipedia.org/wiki/File:T_Sports_logo.png” group-title=”Bangla”, ZEE CIANEMA HD
+http://10.200.200.98:8088/1408/index.m3u8
+
+#EXTINF:-1 tvg-logo=”https://en.m.wikipedia.org/wiki/File:T_Sports_logo.png” group-title=”Bangla”, LOTUS TV
+http://10.200.200.98:8088/1505/index.m3u8
+
+#EXTINF:-1 tvg-logo=”https://en.m.wikipedia.org/wiki/File:T_Sports_logo.png” group-title=”Bangla”, MOVIE'S HD
+http://10.200.200.98:8088/1503/index.m3u8
+
+#EXTINF:-1 tvg-logo=”https://en.m.wikipedia.org/wiki/File:T_Sports_logo.png” group-title=”Bangla”, SONY PIX
+http://10.200.200.98:8088/1507/index.m3u8
+
+#EXTINF:-1 tvg-logo=”https://en.m.wikipedia.org/wiki/File:T_Sports_logo.png” group-title=”Bangla”, NICK
+http://10.200.200.98:8088/1701/index.m3u8
+
+#EXTINF:-1 tvg-logo=”https://en.m.wikipedia.org/wiki/File:T_Sports_logo.png” group-title=”Bangla”, CN (cartoon network)
+http://10.200.200.98:8088/1702/index.m3u8
+
+#EXTINF:-1 tvg-logo=”https://en.m.wikipedia.org/wiki/File:T_Sports_logo.png” group-title=”Bangla”, SAMGIT বাংলা 
+http://10.200.200.98:8088/1601/index.m3u8
+
+#EXTINF:-1 tvg-logo=”https://en.m.wikipedia.org/wiki/File:T_Sports_logo.png” group-title=”Bangla”, 9XM
+http://10.200.200.98:8088/1605/index.m3u8
+
+#EXTINF:-1 tvg-logo=”https://en.m.wikipedia.org/wiki/File:T_Sports_logo.png” group-title=”Bangla”, NATIONAL GEOGRAPHY 
+http://10.200.200.98:8088/1901/index.m3u8
+
+#EXTINF:-1 tvg-logo=”https://en.m.wikipedia.org/wiki/File:T_Sports_logo.png” group-title=”Bangla”, Discovery 
+http://10.200.200.98:8088/1904/index.m3u8
