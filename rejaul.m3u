@@ -1,7 +1,31 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/200px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”Bangla”, NTV
+#EXTINF:-1 tvg-logo=”https://en.m.wikipedia.org/wiki/File:T_Sports_logo.png” group-title=”Bangla”, T sport
 http://10.200.200.98:8088/1101/index.m3u8
 
 #EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/200px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”Bangla”, NTV
 http://10.200.200.98:8088/1104/index.m3u8
+
+#EXTINF:-1 tvg-logo=”https://en.m.wikipedia.org/wiki/File:T_Sports_logo.png” group-title=”Bangla”, T sport
+http://10.200.200.98:8088/1103/index.m3u8
+
+#EXTINF:-1 tvg-logo=”https://en.m.wikipedia.org/wiki/File:T_Sports_logo.png” group-title=”Bangla”, T sport
+http://10.200.200.98:8088/1104/index.m3u8
+
+#EXTINF:-1 tvg-logo=”https://en.m.wikipedia.org/wiki/File:T_Sports_logo.png” group-title=”Bangla”, T sport
+http://10.200.200.98:8088/1105/index.m3u8
+
+#EXTINF:-1 tvg-logo=”https://en.m.wikipedia.org/wiki/File:T_Sports_logo.png” group-title=”Bangla”, T sport
+http://10.200.200.98:8088/1106/index.m3u8
+
+#EXTINF:-1 tvg-logo=”https://en.m.wikipedia.org/wiki/File:T_Sports_logo.png” group-title=”Bangla”, T sport
+http://10.200.200.98:8088/1106/index.m3u8
+
+#EXTINF:-1 tvg-logo=”https://en.m.wikipedia.org/wiki/File:T_Sports_logo.png” group-title=”Bangla”, T sport
+http://10.200.200.98:8088/1107/index.m3u8
+
+#EXTINF:-1 tvg-logo=”https://en.m.wikipedia.org/wiki/File:T_Sports_logo.png” group-title=”Bangla”, T sport
+http://10.200.200.98:8088/1109/index.m3u8
+
+#EXTINF:-1 tvg-logo=”https://en.m.wikipedia.org/wiki/File:T_Sports_logo.png” group-title=”Bangla”, T sport
+http://10.200.200.98:8088/11011/index.m3u8
